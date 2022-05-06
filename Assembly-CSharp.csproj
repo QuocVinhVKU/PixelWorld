@@ -56,9 +56,15 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\RoomMove.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\CameraMovement.cs" />
-    <Compile Include="Assets\Scripts\RoomMove.cs" />
+    <Compile Include="Assets\Scripts\Sign.cs" />
+    <Compile Include="Assets\Scripts\PlayerMovement_2.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\ok.txt" />
+    <None Include="Assets\Fonts\OFL.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

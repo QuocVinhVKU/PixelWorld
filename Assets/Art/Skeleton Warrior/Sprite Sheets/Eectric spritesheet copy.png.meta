@@ -1,7 +1,31 @@
 fileFormatVersion: 2
 guid: 7590d13a7556fb84288ae295da829a23
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -6257430485773009932
+    second: Eectric spritesheet copy_0
+  - first:
+      213: -18969493017065135
+    second: Eectric spritesheet copy_1
+  - first:
+      213: -4698997141594115596
+    second: Eectric spritesheet copy_2
+  - first:
+      213: -7206995769722822814
+    second: Eectric spritesheet copy_3
+  - first:
+      213: -8626498260134611430
+    second: Eectric spritesheet copy_4
+  - first:
+      213: -6971036879319201173
+    second: Eectric spritesheet copy_5
+  - first:
+      213: -2610363172679992418
+    second: Eectric spritesheet copy_6
+  - first:
+      213: -601050465753193741
+    second: Eectric spritesheet copy_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +56,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -113,7 +137,175 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Eectric spritesheet copy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1174
+        width: 700
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbbcc060242929a0800000000000000
+      internalID: -6257430485773009932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eectric spritesheet copy_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1174
+        width: 700
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159062bb85b9cbff0800000000000000
+      internalID: -18969493017065135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eectric spritesheet copy_2
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1174
+        width: 700
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1f4befefec9ceb0800000000000000
+      internalID: -4698997141594115596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eectric spritesheet copy_3
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1174
+        width: 700
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f9def188b9bfb90800000000000000
+      internalID: -7206995769722822814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eectric spritesheet copy_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 700
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16b62d9985884880800000000000000
+      internalID: -8626498260134611430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eectric spritesheet copy_5
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 700
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a080474e6e14f90800000000000000
+      internalID: -6971036879319201173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eectric spritesheet copy_6
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 700
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bb5a5568026cbd0800000000000000
+      internalID: -2610363172679992418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eectric spritesheet copy_7
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 700
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2a2b039c3a8a7f0800000000000000
+      internalID: -601050465753193741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

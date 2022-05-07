@@ -4457,9 +4457,15 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
+<<<<<<< Updated upstream
         y: 208
         width: 16
         height: 16
+=======
+        y: 192
+        width: 32
+        height: 32
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4474,6 +4480,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: objects_157
       rect:
         serializedVersion: 2
@@ -4642,6 +4649,8 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+=======
+>>>>>>> Stashed changes
       name: objects_165
       rect:
         serializedVersion: 2
@@ -4726,6 +4735,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: objects_169
       rect:
         serializedVersion: 2
@@ -4768,13 +4778,20 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+=======
+>>>>>>> Stashed changes
       name: objects_171
       rect:
         serializedVersion: 2
         x: 96
         y: 192
+<<<<<<< Updated upstream
         width: 16
         height: 16
+=======
+        width: 32
+        height: 32
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4789,6 +4806,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: objects_172
       rect:
         serializedVersion: 2
@@ -4810,13 +4828,20 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+=======
+>>>>>>> Stashed changes
       name: objects_173
       rect:
         serializedVersion: 2
         x: 128
         y: 192
+<<<<<<< Updated upstream
         width: 16
         height: 16
+=======
+        width: 32
+        height: 32
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4831,6 +4856,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: objects_174
       rect:
         serializedVersion: 2
@@ -4852,13 +4878,20 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+=======
+>>>>>>> Stashed changes
       name: objects_175
       rect:
         serializedVersion: 2
         x: 160
         y: 192
+<<<<<<< Updated upstream
         width: 16
         height: 16
+=======
+        width: 32
+        height: 32
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4873,6 +4906,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: objects_176
       rect:
         serializedVersion: 2
@@ -4894,13 +4928,20 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+=======
+>>>>>>> Stashed changes
       name: objects_177
       rect:
         serializedVersion: 2
         x: 192
         y: 192
+<<<<<<< Updated upstream
         width: 16
         height: 16
+=======
+        width: 32
+        height: 32
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4915,6 +4956,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< Updated upstream
       name: objects_178
       rect:
         serializedVersion: 2
@@ -4936,6 +4978,8 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+=======
+>>>>>>> Stashed changes
       name: objects_179
       rect:
         serializedVersion: 2
